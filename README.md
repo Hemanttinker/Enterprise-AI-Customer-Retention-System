@@ -44,6 +44,6 @@ An end-to-end Machine Learning and Business Intelligence system that processes o
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Enterprise-AI-Customer-Retention-System.git](https://github.com/YOUR_USERNAME/Enterprise-AI-Customer-Retention-System.git)
+   git clone https://github.com/Hemanttinker/Enterprise-AI-Customer-Retention-System.git
    pip install -r requirements.text
    streamlit run app.py
